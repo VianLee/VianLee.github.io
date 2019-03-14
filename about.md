@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 关于武梁丁
+title: About Me
 ---
 
 &ensp;&ensp;&ensp;&ensp;What are you waiting for, come and join us~
@@ -13,5 +13,3 @@ title: 关于武梁丁
 > 酹月问江逝何求  
 > 昔时王谢随百草  
 > 今欲击楫誓中流  
-
-{% include comments.html %}
