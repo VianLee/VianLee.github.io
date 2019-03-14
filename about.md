@@ -3,7 +3,7 @@ layout: page
 title: About Me
 ---
 
-&ensp;&ensp;&ensp;&ensp;What are you waiting for, come and join us~
+&ensp;&ensp;&ensp;&ensp;在校期间，我做了许多数据分析案例，能独立完成数据收集、清洗工作，运用假设检验、回归分析、聚类分析、模型诊断、数据可视化等方法进行数据分析。熟悉R语言，熟悉Python的常用库,熟悉\LaTeX{}等排版语言。同时适应中英文教学环境，具备良好的英文听说读写能力。有良好的口头表达和书面表达能力，为人积极乐观，开朗随和，执行力强大，做事有始有终，结果导向。
 
 > 硕志不没世俗中  
 > 鸿鹄青云乐悠悠  
